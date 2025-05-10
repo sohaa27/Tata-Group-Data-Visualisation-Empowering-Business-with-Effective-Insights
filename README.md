@@ -1,33 +1,30 @@
-Tata Group Data Visualisation – Virtual Experience Program
+# Tata Group Data Visualisation – Virtual Experience Program
 
-This repository contains my personal work for the Tata Group Data Visualisation Virtual Experience Program offered through Forage. The program simulates the role of a Data Visualisation Analyst at Tata iQ, where the objective is to turn raw business data into meaningful insights using effective visual storytelling.
+This repository contains my personal work for the **Tata Group Data Visualisation Virtual Experience Program** offered through Forage. The program simulates the role of a Data Visualisation Analyst at Tata iQ, where the objective is to turn raw business data into meaningful insights using effective visual storytelling.
 
-Project Overview
+---
+
+## 📊 Project Overview
 
 This virtual experience focused on applying data analysis and visualization skills to solve business challenges. As a participant, I:
 
-Identified key performance indicators from business scenarios
+* 📈 **Identified key performance indicators** from business scenarios
+* 🎨 **Selected and applied appropriate visualization techniques**
+* 🖥️ **Built dashboards** to communicate insights
+* 📝 **Created stakeholder-ready presentations**
 
-Selected and applied appropriate visualization techniques
+---
 
-Built dashboards to communicate insights
+## 🧠 Key Learning Outcomes
 
-Created stakeholder-ready presentations
+* 🔍 **Translating business problems** into data questions
+* 🎯 **Choosing effective visuals** for different types of data
+* 📊 **Creating dashboards** using Power BI and Tableau
+* 💬 **Communicating findings** with data-driven storytelling
 
-Key Learning Outcomes
+---
 
-Translating business problems into data questions
+## 🛠️ Tools & Technologies Used
 
-Choosing effective visuals for different types of data
-
-Creating dashboards using Power BI and Tableau
-
-Communicating findings with data-driven storytelling
-
-Tools & Technologies Used
-
-Microsoft Excel
-
-Tableau
-
-Power BI
+* 📊 **Microsoft Excel**
+* 📊 **Tableau**
